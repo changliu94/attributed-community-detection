@@ -1,0 +1,13 @@
+
+================================================PURPOSE:================================================
+
+
+================================================USAGE:================================================
+The source code is in python 2.7
+python community_louvain.py [NETWORK EDGELIST PATH] [OUTPUT NAME]
+Where:
+	[NETWORK EDGELIST PATH]:
+		Each line corresponds to an edge. A line is composed of two vertex ids separated by a space.
+	[OUTPUT NAME]:
+		The name of output file
+		Each line in the output consists of an integer corresponding to the vertex id, and an integer corresponding to the vertex community id separated by space
