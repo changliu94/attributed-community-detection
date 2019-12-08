@@ -5,3 +5,7 @@
 
 # Compiled python files
 *.pyc
+
+# Notebooks
+.ipynb_checkpoints
+notebook
